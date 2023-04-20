@@ -1,4 +1,4 @@
-README - 10 bài toán sử dụng phương pháp quay lui (Backtracking)
+10 bài toán sử dụng phương pháp quay lui (Backtracking)
 Đây là một bộ sưu tập các bài toán sử dụng phương pháp quay lui (Backtracking) để giải quyết. Mỗi bài toán được mô tả ngắn gọn cùng với liên kết đến nguồn tài liệu để tìm hiểu thêm về chúng.
 
 1. N-Queen Problem
