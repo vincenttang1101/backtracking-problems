@@ -55,7 +55,7 @@ bool checkSolution()
          board[i][j] = 0; // Đặt tất cả các ô trên bàn cờ bằng 0
    if (solveNQueen(board, 0) == false)
    { // Bắt đầu tìm vị trí đặt quân hậu từ cột thứ 0
-      cout << "Không tìm được giải pháp";
+      cout << "No solution exists";
       return false;
    }
    printBoard(board);

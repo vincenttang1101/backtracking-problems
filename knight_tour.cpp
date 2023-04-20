@@ -50,7 +50,7 @@ int solveKT()
     sử dụng solveKTUtil() */
     if (solveKTUtil(0, 0, 1, sol, xMove, yMove) == 0)
     {
-        cout << "Không tìm thấy giải pháp";
+        cout << "No solution exists";
         return 0;
     }
     else
